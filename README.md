@@ -64,3 +64,8 @@ To explore or replicate the analysis:
 ## 📃 License
 
 This project is open-source and available under the MIT License.
+
+## 📊 Power BI Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
